@@ -26,3 +26,6 @@ npm i #install dependencies
 npm run build #prebuild
 npm start #deploy
 ```  
+
+## Internal chat architecture
+![alt text](image.png)
