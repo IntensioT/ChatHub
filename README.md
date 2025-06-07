@@ -29,3 +29,13 @@ npm start #deploy
 
 ## Internal chat architecture
 ![alt text](image.png)
+
+# Demo
+## Telegram 
+![alt text](image-1.png)
+
+## Hub
+![alt text](image-2.png)
+
+# Vkontakte
+![alt text](image-3.png)
